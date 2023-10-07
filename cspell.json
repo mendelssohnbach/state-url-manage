@@ -1,0 +1,10 @@
+{
+  "ignoreWords": [
+    "imgtext",
+    "navbtn"
+  ],
+  "words": [
+    "precommit",
+    "URLID"
+  ]
+}
